@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.router-link-active{
+  @apply border-2 border-indigo-400 p-2 rounded-full
+}
