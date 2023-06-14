@@ -12,13 +12,13 @@ A Cryptocurreny News with VueJs and Cryptocurreny News api
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/dine-5h/CryptoNews
 ```
 
 Go to the project directory
 
 ```bash
-  cd Cryptocurreny-News-api
+  cd CryptoNews
 ```
 
 Install dependencies
